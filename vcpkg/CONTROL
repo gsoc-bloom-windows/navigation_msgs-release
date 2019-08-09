@@ -1,4 +1,0 @@
-Source: ros-dashing-map-msgs
-Version: 2.0.1
-Description: This package defines messages commonly used in mapping packages.
-Build-Depends:
